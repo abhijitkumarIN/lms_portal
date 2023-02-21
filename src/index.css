@@ -12,3 +12,7 @@
   transform: scale(1.05);
   transition: all  0.4s ease-in-out;
 }
+ .card-event:hover   {
+  transform: translateY(-5px);
+  transition: all  0.4s ease-out;
+}

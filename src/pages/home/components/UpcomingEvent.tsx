@@ -2,6 +2,7 @@ import React from 'react'
 import { IconProvider } from '../../../utils/common.utils';
 import { FaBookReader } from "react-icons/fa";
 import { FiClock } from "react-icons/fi";
+import { AnimationOnScroll } from 'react-animation-on-scroll';
 
 export default function UpcomingEvent() {
 
@@ -15,7 +16,7 @@ export default function UpcomingEvent() {
                                 <img className='w-[170px] rounded-md m-auto  h-[140px]' src='https://www.izaanschool.com/assets/img/avatars/paulGrossman.jpg' />
                             </div>
                             <div className='px-3  '>
-                                <h3 className='text-primarybg text-xl font-semibold '>Breaking Into Tech at Islamic Center of Irving</h3>
+                                <h3 className='text-primarybg text-xl font-semibold mb-2 '>Breaking Into Tech at Islamic Center of Irving</h3>
                                 <div className='mt-2'>
                                     <div className='grid grid-cols-12 mt-2 pr-3 '>
                                         <div className='lg:col-span-6 md:col-span-6 col-span-6'>
@@ -56,15 +57,15 @@ export default function UpcomingEvent() {
     return (
         <div>
             <div>
-                <div style={{ background: 'url(https://www.izaanschool.com/assets/img/matrix-bg.svg)', backgroundPosition: "center", height: "auto ", backgroundSize: "cover" }} className=' lg:px-36 md:px-11 px-2 mt-12 pb-12  '>
+                <div style={{ background: 'url(https://www.izaanschool.com/assets/img/matrix-bg.svg)', backgroundPosition: "center", height: "auto ", backgroundSize: "cover" }} className=' lg:px-10 md:px-11 px-2 mt-12 pb-12  '>
                     <div className=''>
                         <br />
                         <div className='my-9'>
                             <section className='text-center  mb-4 '>
                                 <h2 className='text-3xl text-white font-semibold '>
-                                    Why Study With Izaan School?
+                                    Upcoming Events
                                 </h2>
-                                <p className='text-white mt-2 '>Take the first step towards your tech career with us</p>
+                                <p className='text-white mt-2 '>Keep an eye on what we do from time to time</p>
                             </section>
                         </div>
                         <div className='flex  justify-between'>
@@ -77,11 +78,13 @@ export default function UpcomingEvent() {
                         </div>
                         <br />
                     </div>
-                    <div className='grid grid-cols-12 gap-4'>
+                    <div className='grid grid-cols-12 gap-10'>
                         {
                             Array(12, 39, 939, 90, 70, 45, 2004, 4, 5, 7, 748, 37, 340, 404).map((_, index) => (
                                 <div key={index} className=' lg:col-span-6 md:col-span-12 col-span-12'>
-                                    <EventCard />
+                                    <AnimationOnScroll animateIn="animate__slideInUp nimate__delay-4s">
+                                        <EventCard />
+                                    </AnimationOnScroll>
                                 </div>
                             ))
                         }

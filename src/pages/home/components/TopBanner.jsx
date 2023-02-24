@@ -5,7 +5,7 @@ export default function TopBanner() {
     return (
         <div className='banner'>
             <div className=' bg-primarybg'>
-                <div className='lg:px-36 pt-3 '>
+                <div className='lg:px-36 pt-28 '>
                     <div className='grid grid-cols-12 py-14 '>
                         <div className='col-span-7 flex '>
                                 <div className='animate__animated  animate__slideInLeft flex items-center '>

@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       colors: {
         'primarybg': '#162445',
+        //  'primarybg': '#800000',
         'title-bg': '#ffc78b',
         'pink': '#ff49db',
         'orange': '#ff7849',

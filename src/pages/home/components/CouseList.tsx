@@ -20,11 +20,11 @@ export default function CouseList() {
                         <div className=' text-[#77838f] '>
                             Data Analytics
                         </div>
-                        <div className=' text-primarybg text-lg font-semibold w-[70%] mb-3 mt-2 '>
+                        <div className=' text-primarybg inline text-lg font-semibold w-[70%] mb-3 mt-2 '>
                             Software QA Automation Engineering
                         </div>
 
-                        <div className='mt-2'>
+                        <div className='mt-2 pb-2 '>
                             <div className='grid grid-cols-12 mt-2'>
                                 <div className='col-span-6'>
                                     <div className='flex justify text-[#77838f] text-sm'>

@@ -3,7 +3,7 @@ import { IconProvider } from '../../../utils/common.utils';
 import { FaBookReader } from "react-icons/fa";
 import { FiClock } from "react-icons/fi";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
-
+import img from "./680343.png"
 export default function UpcomingEvent() {
 
     const EventCard = React.memo(() => (
@@ -57,7 +57,7 @@ export default function UpcomingEvent() {
     return (
         <div>
             <div>
-                <div style={{ background: 'url(https://www.izaanschool.com/assets/img/matrix-bg.svg)', backgroundPosition: "center", height: "auto ", backgroundSize: "cover" }} className=' lg:px-10 md:px-11 px-2 mt-12 pb-12  '>
+                <div style={{ background: `url(${img})`, backgroundPosition: "center", height: "auto ", backgroundSize: "cover" }} className=' lg:px-10 md:px-11 px-2 mt-12 pb-12  '>
                     <div className=''>
                         <br />
                         <div className='my-9'>

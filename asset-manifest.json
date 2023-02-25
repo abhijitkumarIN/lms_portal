@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/lms_portal/static/css/main.d010ce5e.css",
-    "main.js": "/lms_portal/static/js/main.9a4c6afd.js",
+    "main.css": "/lms_portal/static/css/main.361560b1.css",
+    "main.js": "/lms_portal/static/js/main.a5df3b05.js",
     "static/js/787.a1991520.chunk.js": "/lms_portal/static/js/787.a1991520.chunk.js",
+    "static/media/680343.png": "/lms_portal/static/media/680343.7785a69f0d6c79ee0414.png",
     "index.html": "/lms_portal/index.html",
-    "main.d010ce5e.css.map": "/lms_portal/static/css/main.d010ce5e.css.map",
-    "main.9a4c6afd.js.map": "/lms_portal/static/js/main.9a4c6afd.js.map",
+    "main.361560b1.css.map": "/lms_portal/static/css/main.361560b1.css.map",
+    "main.a5df3b05.js.map": "/lms_portal/static/js/main.a5df3b05.js.map",
     "787.a1991520.chunk.js.map": "/lms_portal/static/js/787.a1991520.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d010ce5e.css",
-    "static/js/main.9a4c6afd.js"
+    "static/css/main.361560b1.css",
+    "static/js/main.a5df3b05.js"
   ]
 }

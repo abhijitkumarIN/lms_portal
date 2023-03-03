@@ -16,7 +16,7 @@ export default function UpcomingEvent() {
                                 <img alt='Test Demo image ' className='w-[170px] rounded-md m-auto  h-[140px]' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1pEiLahUshC6pxmaGbdWai34H9KF_bY6rdLBty_svjf_I7exWI4tGPCUXKidSlVUnbH4&usqp=CAU' />
                             </div>
                             <div className='px-3  '>
-                                <h3 className='text-primarybg text-xl font-semibold mb-2 '>Breaking Into Tech at Islamic Center of Irving</h3>
+                                <h3 className='text-primarybg text-xl font-semibold mb-2 '>Academy Online Software Engineering</h3>
                                 <div className='mt-2'>
                                     <div className='grid grid-cols-12 mt-2 pr-3 '>
                                         <div className='lg:col-span-6 md:col-span-6 col-span-6'>
@@ -37,7 +37,7 @@ export default function UpcomingEvent() {
                                                         <FiClock />
                                                     </IconProvider>
                                                 </div>
-                                                <div className='text-sm'> Valley Ranch Islamic Center </div>
+                                                <div className='text-sm'> Academy Online Software  </div>
                                             </div>
                                         </div>
                                     </div>

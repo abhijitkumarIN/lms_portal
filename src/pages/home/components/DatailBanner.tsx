@@ -7,9 +7,9 @@ export default function DatailBanner() {
             <div className='lg:px-36 md:px-11 px-2 mt-12 pb-12 '>
                 <section className='text-center  mb-4 '>
                     <h2 className='text-3xl text-primarybg font-semibold '>
-                        Why Study With Izaan School?
+                        Why Study With Technomatic Academy ?
                     </h2>
-                    <p className='text-[#77838f]'>Take the first step towards your tech career with us</p>
+                    <p className='text-[#77838f]'>Take the first step towards your tech career with Technomatic Academy</p>
                 </section>
                 <div className='grid grid-cols-12 gap-7 '>
                     {
@@ -22,7 +22,7 @@ export default function DatailBanner() {
                                         </div>
                                         <h4 className="text-primarybg font-semibold">Flexible Learning</h4>
                                         <section className='mt-4'>
-                                            <p className='text-[#77838f]  '> Learn the different technical skills required for building successful technology careers.
+                                            <p className='text-[#77838f]  '> Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae tempore laboriosam unde nam labore similique iste iure neque voluptate repudiandae..
                                             </p>
                                         </section>
                                     </div>

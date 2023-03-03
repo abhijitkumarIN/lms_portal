@@ -13,7 +13,7 @@ export default function UpcomingEvent() {
                     <div className=''>
                         <div className='flex  items-center'>
                             <div className=''>
-                                <img className='w-[170px] rounded-md m-auto  h-[140px]' src='https://www.izaanschool.com/assets/img/avatars/paulGrossman.jpg' />
+                                <img alt='Test Demo image ' className='w-[170px] rounded-md m-auto  h-[140px]' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1pEiLahUshC6pxmaGbdWai34H9KF_bY6rdLBty_svjf_I7exWI4tGPCUXKidSlVUnbH4&usqp=CAU' />
                             </div>
                             <div className='px-3  '>
                                 <h3 className='text-primarybg text-xl font-semibold mb-2 '>Breaking Into Tech at Islamic Center of Irving</h3>

@@ -20,17 +20,16 @@ export default function Feedback() {
                                         <div className=' '>
                                             <div className='flex pt-5 pl-5 items-center'>
                                                 <div className=''>
-                                                    <img className='w-[70px] rounded-full h-[70px]' src='https://www.izaanschool.com/assets/img/avatars/paulGrossman.jpg' />
+                                                    <img alt='Test Demo image ' className='w-[70px] rounded-full h-[70px]' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1pEiLahUshC6pxmaGbdWai34H9KF_bY6rdLBty_svjf_I7exWI4tGPCUXKidSlVUnbH4&usqp=CAU' />
                                                 </div>
                                                 <div className='pl-3 '>
-                                                    <p className='text-primarybg'>Mozammel Sarkar</p>
-                                                    <p className='text-[#77838f] text-sm '>DevOps Engineer</p>
+                                                    <p className='text-primarybg'>Rudolph Hennry</p>
+                                                    <p className='text-[#77838f] text-sm '>MLOps </p>
                                                 </div>
                                             </div>
                                             <section className='mt-4 p-4 '>
-                                                <p className='text-[#77838f]  '> 
-                                                A very effective platform to get the required IT skills to reach your goal in the IT world, led by a very, very enthusiastic mentor Jahidul. He follows his unique teaching technique and creates an environment where everyone plays a part as a mentor and helps each other understand topics—highly recommended if you want to be a part of the IT world. I have done QA course and after serving as QA, I returned to do DevOps course. So now I am successfully working as DevOps Engineer. 
-                                                </p>
+                                                <p className='text-[#77838f]  '>
+                                                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum et explicabo laudantium. Asperiores, magnam neque suscipit amet ad obcaecati nihil soluta quam perferendis aliquid commodi nesciunt quis natus iste, officia sit modi architecto, fugit a totam quaerat molestias eum necessitatibus provident. Vel in sapiente necessitatibus, fuga ipsam facilis culpa debitis id consequatur architecto quis numquam explicabo molestias! Veritatis, atque! Ea!    </p>
                                             </section>
                                         </div>
                                     </div>

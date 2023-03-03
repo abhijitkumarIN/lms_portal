@@ -12,7 +12,7 @@ export default function TopBanner() {
                                     <div className='grid grid-cols-12'>
                                         <div className='col-span-9 '>
                                             <section className=''>
-                                                <h2 className='text-title-bg text-7xl font-semibold '>Izaan School of Engineering </h2>
+                                                <h2 className='text-title-bg text-7xl font-semibold '>Technomatic Academy</h2>
                                                 <br />
                                                 <h2 className='text-white mb-1 text-4xl font-light my-5 '>Grow With Us </h2>
                                                 <br />
@@ -23,8 +23,7 @@ export default function TopBanner() {
                                         </div>
                                         <div className=' col-span-9 mt-2 '>
                                             <article className='text-white '>
-                                                Izaan School aims to help you build your tech career by teaching you the skills required to launch a thriving career in tech.
-                                            </article>
+                                            The object of education is to prepare the young to educate themselves throughout their lives.  </article>
                                             <section className='mt-3 text-white'>
                                                 <div className='flex cursor-pointer justify text-[#77838f] text-sm'>
                                         <div className='mt-[1.5px] mr-2'>
@@ -32,7 +31,7 @@ export default function TopBanner() {
                                                 <AiOutlineSlack />
                                             </IconProvider>
                                         </div>
-                                        <div className=' text-white '> Join Izaan Slack Community </div>
+                                        <div className=' text-white '> Join Technomatic Slack Community </div>
                                     </div>
                                             </section>
                                         </div>
